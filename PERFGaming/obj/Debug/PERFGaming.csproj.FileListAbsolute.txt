@@ -1,0 +1,97 @@
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\PERFGaming.exe.config
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\PERFGaming.exe
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\PERFGaming.pdb
+D:\BOT\PERFGaming\PERFGaming\obj\Debug\PERFGaming.csprojResolveAssemblyReference.cache
+D:\BOT\PERFGaming\PERFGaming\obj\Debug\PERFGaming.csproj.CoreCompileInputs.cache
+D:\BOT\PERFGaming\PERFGaming\obj\Debug\PERFGaming.exe
+D:\BOT\PERFGaming\PERFGaming\obj\Debug\PERFGaming.pdb
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\SystemLang\alerts.json
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Commands.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Core.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Rest.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Rpc.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Webhook.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.WebSocket.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Newtonsoft.Json.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.AppContext.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.Collections.Immutable.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.Console.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.Globalization.Calendars.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.Interactive.Async.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.IO.Compression.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.IO.FileSystem.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.Net.Http.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.Net.Sockets.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.Xml.ReaderWriter.dll
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Commands.xml
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Core.xml
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Rest.xml
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Rpc.xml
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Webhook.xml
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.WebSocket.xml
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\Newtonsoft.Json.xml
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.Collections.Immutable.xml
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\BOT\PERFGaming\PERFGaming\bin\Debug\System.Interactive.Async.xml
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\SystemLang\alerts.json
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\PERFGaming.exe.config
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\PERFGaming.exe
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\PERFGaming.pdb
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Commands.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Core.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Rest.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Rpc.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Webhook.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.WebSocket.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Newtonsoft.Json.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.AppContext.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.Collections.Immutable.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.Console.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.Globalization.Calendars.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.Interactive.Async.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.IO.Compression.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.IO.FileSystem.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.Net.Http.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.Net.Sockets.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.Xml.ReaderWriter.dll
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Commands.xml
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Core.xml
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Rest.xml
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Rpc.xml
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.Webhook.xml
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Discord.Net.WebSocket.xml
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\Newtonsoft.Json.xml
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.Collections.Immutable.xml
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\bin\Debug\System.Interactive.Async.xml
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\obj\Debug\PERFGaming.csprojAssemblyReference.cache
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\obj\Debug\PERFGaming.csproj.CoreCompileInputs.cache
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\obj\Debug\PERFGaming.csproj.CopyComplete
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\obj\Debug\PERFGaming.exe
+F:\BACKUP 3 (EVERYTHING)\BOT\PERFGaming\PERFGaming\obj\Debug\PERFGaming.pdb
